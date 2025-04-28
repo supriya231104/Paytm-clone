@@ -1,0 +1,66 @@
+  <section class="w-screen flex flex-col justify-center items-center h-[650px] bg-white">
+          <div class="flex flex-row medium:flex-col min-w-[80%] justify-center items-center h-[80%] gap-[150px] large:gap-0 large:w-full medium:w-full medium:h-fit medium:gap-0">
+            
+            <!-- LEFT BLOCK -->
+            <div class="w-[45%] flex flex-col items-start justify-between h-[90%] large:w-[50%] medium:h-full medium:w-full medium:items-center">
+              <img src="assets/asset 33.webp" alt="Bank visual" class="w-56" />
+              <p class="text-[36px] leading-[40px] font-bold w-[70%] medium:w-full medium:text-center">
+                India's most sincere bank.
+              </p>
+              <p class="text-[20px] leading-[28px] font-medium justify-start w-[90%] medium:w-full medium:text-center">
+                Paytm Payments Bank offers secure, transparent and risk-free banking at your fingertips. With instant account opening, virtual debit card and zero balance requirements, experience the future of banking today.
+              </p>
+              <button class="bg-darkneela h-[40px] w-[150px] flex items-center justify-center gap-3 rounded-3xl hover:bg-skyblue group relative">
+                <p class="text-white font-medium">Learn More</p>
+                <i class="fa-solid fa-angle-right fa-md group-hover:translate-x-1 transition-all duration-100" style="color: #ffffff"></i>
+                <div class="after:content-[''] bg-white h-[3px] w-2 absolute translate-x-11 hidden group-hover:block group-hover:translate-x-12 transition-all duration-100"></div>
+              </button>
+            </div>
+        
+            <!-- RIGHT IMAGE BLOCK -->
+            <div class="h-[80%] hidden medium:hidden">
+              <img src="assets/asset 34.webp" alt="Illustration" class="max-w-[450px]" />
+            </div>
+        
+          </div>
+        </section>
+
+        <section
+          class="w-screen flex flex-col justify-center items-center h-[600px] bg-lightcolor"
+        >
+          <div
+            class="flex w-[80%] flex-row-reverse bg justify-center items-center h-[80%] gap-[150px] large:gap-0 large:w-full large:justify-between medium:flex-col medium:w-full"
+          >
+            <div
+              class="w-[45%] flex flex-col items-start justify-between h-[80%] large:w-[50%] medium:w-full"
+            >
+              <img src="assets/asset 35.png" alt="" class="w-56" />
+              <p class="text-[36px] leading-[40px] font-bold w-[70%]">
+                India's most sincere bank.
+              </p>
+              <p
+                class="text-[20px] leading-[28px] font-medium justify-start w-[90%]"
+              >
+                Paytm Payments Bank offers secure, transparent and risk-free
+                banking at your fingertips. With instant account opening,
+                virtual debit card and zero balance requirements, experience the
+                future of banking today.
+              </p>
+              <button
+                class="bg-darkneela h-[40px] w-[150px] flex items-center justify-center gap-3 rounded-3xl hover:bg-skyblue group relative"
+              >
+                <p class="text-white font-medium">Learn More</p>
+                <i
+                  class="fa-solid fa-angle-right fa-md group-hover:translate-x-1 transition-all duration-100"
+                  style="color: #ffffff"
+                ></i>
+                <div
+                  class="after:content-[''] bg-white h-[3px] w-2 absolute translate-x-11 hidden group-hover:block group-hover:translate-x-12 transition-all duration-100"
+                ></div>
+              </button>
+            </div>
+            <div class="h-[80%] medium:hidden">
+              <img src="assets/asset 36.webp" alt="" class="max-w-[450px] medium:hidden" />
+            </div>
+          </div>
+        </section>

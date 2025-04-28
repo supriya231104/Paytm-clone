@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgI{
+    background-image: url('assets\asset 32.avif');
+    background-position:  center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
