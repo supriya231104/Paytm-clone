@@ -18,7 +18,7 @@ module.exports = {
         faintblue:'#E8F8FD',
         fontColor:'#505050'
       },
-      fontSize: {
+      fontFamily: {
         " normal_font": "16px",
         eighteenp: "18px",
       },
